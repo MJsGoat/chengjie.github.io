@@ -27,7 +27,6 @@ author:
   # bio              : "Short biography for the left-hand sidebar"
   location         : "Ann Arbor, Michigan"
   employer         : "University of Michigan"
-  uri              : # URL
   email            : "chengjie@umich.edu" 
 
   # Academic websites
@@ -37,7 +36,7 @@ author:
   # github           : "academicpages"  
 
   # Social media
-  linkedin         : "www.linkedin.com/in/chengjie-zhang-15378028b"
+  linkedin         : "chengjiezhang001127"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
